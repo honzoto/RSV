@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib == 3.4.2
+cutadapt == 3.4
+umi_tools == 1.1.2
